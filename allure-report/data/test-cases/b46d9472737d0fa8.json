@@ -1,0 +1,61 @@
+{
+  "uid" : "b46d9472737d0fa8",
+  "name" : "Should be on the home page",
+  "fullName" : "LoginText.Should be on the home page",
+  "historyId" : "5b1df3f94191d542f65c50116696df59",
+  "time" : {
+    "start" : 1577631091705,
+    "stop" : 1577631108284,
+    "duration" : 16579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async function did not complete within 5000ms (set by jasmine.DEFAULT_TIMEOUT_INTERVAL)",
+  "statusTrace" : "Error: Timeout - Async function did not complete within 5000ms (set by jasmine.DEFAULT_TIMEOUT_INTERVAL)\n                    at <Jasmine>\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "LoginText"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginText"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should be on the home page"
+  }, {
+    "name" : "package",
+    "value" : "LoginText"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d382b468f544da5",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async function did not complete within 5000ms (set by jasmine.DEFAULT_TIMEOUT_INTERVAL)",
+      "time" : {
+        "start" : 1577629817304,
+        "stop" : 1577629836673,
+        "duration" : 19369
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b46d9472737d0fa8.json",
+  "parameterValues" : [ ]
+}

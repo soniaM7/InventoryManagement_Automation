@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "LoginText",
+    "children" : [ {
+      "name" : "Should be on the home page",
+      "uid" : "b46d9472737d0fa8",
+      "parentUid" : "ef702d516621b9889a7fcfae052a5a65",
+      "status" : "failed",
+      "time" : {
+        "start" : 1577631091705,
+        "stop" : 1577631108284,
+        "duration" : 16579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ef702d516621b9889a7fcfae052a5a65"
+  } ]
+}

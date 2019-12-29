@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Timeout - Async function did not complete within 5000ms (set by jasmine.DEFAULT_TIMEOUT_INTERVAL)",
+      "children" : [ {
+        "name" : "Should be on the home page",
+        "uid" : "b46d9472737d0fa8",
+        "parentUid" : "f3086d2fa67a12297f9a94cf5ec700ad",
+        "status" : "failed",
+        "time" : {
+          "start" : 1577631091705,
+          "stop" : 1577631108284,
+          "duration" : 16579
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3086d2fa67a12297f9a94cf5ec700ad"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
